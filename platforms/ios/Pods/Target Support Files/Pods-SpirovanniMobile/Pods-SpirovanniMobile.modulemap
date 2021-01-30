@@ -1,0 +1,6 @@
+framework module Pods_SpirovanniMobile {
+  umbrella header "Pods-SpirovanniMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
